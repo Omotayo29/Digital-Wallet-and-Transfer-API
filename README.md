@@ -1,7 +1,4 @@
 # Digital Wallet and Transfer API
-
-Repository: [github.com/Omotayo29/Digital-Wallet-and-Transfer-API](https://github.com/Omotayo29/Digital-Wallet-and-Transfer-API)
-
 ## About the project
 
 Digital Wallet and Transfer API is a Spring Boot backend for managing users, wallets, funding operations, and wallet-to-wallet transfers.
